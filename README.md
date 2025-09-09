@@ -1,2 +1,1 @@
-#haidang
-Gioi thieu: Toi la Le Hai Dang, 222965.
+Đây là README từ nhánh main.
